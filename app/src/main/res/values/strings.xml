@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BottomNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="arcticfox">북극여우</string>
+    <string name="bumblebee">범블비</string>
+    <string name="chipmunk">다람쥐</string>
 </resources>

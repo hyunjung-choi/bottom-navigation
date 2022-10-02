@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottomFragment1"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/arcticfox" />
+    <item
+        android:id="@+id/bottomFragment2"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="@string/bumblebee" />
+
+    <item
+        android:id="@+id/bottomFragment3"
+        android:icon="@drawable/ic_baseline_groups_24"
+        android:title="@string/chipmunk" />
+</menu>
